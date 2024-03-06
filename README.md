@@ -1,6 +1,6 @@
 # Jean-Lindemann
 
-meu nome é Jean Lindemann, sou programador front end, estou aprendendo e criamdo projetos com:
+meu nome é Jean Lindemann, sou programador front end, estou aprendendo e criando projetos com:
      
 ![HTML-239120_style=for-the-badge logo=html5 logoColor=white](https://github.com/Jeanlindemann/Jean-Lindemann/assets/162126974/e40a75b7-18ed-44e4-900c-7201369a3eb4)
 
